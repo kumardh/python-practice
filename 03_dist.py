@@ -1,6 +1,4 @@
 # dict example
-from operator import getitem
-
 a = {'apple': 'fruit', 'beetroot': 'vegetable', 'cake': 'dessert'}
 a['doughnut'] = 'snack'
 print(a)
@@ -25,7 +23,6 @@ print(dir(dict1))
 dict1 = {'a': 100, 'b': 200, 'c': 300, 'd': 400}
 print(str(dict1)) # {'a': 100, 'b': 200, 'c': 300, 'd': 400}
 print(len(dict1)) # 4
-print(getitem(dict1, 'a')) # 100
 for x in iter(dict1):
     print(x, end = ":") # a:b:c:d:
 print("\n")

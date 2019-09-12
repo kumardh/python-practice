@@ -11,7 +11,7 @@ print(str(y)) # range(0, 10)
 # len is a built-in function to get the length of a collection. It works by calling an object's __len__ magic method.
 print(len(y)) # 10
 
-# Important point to note here is __iter__. if an object implement this method then it can be iterated by calling __next__.
+# Important point to note here is __iter__. if an object implement this method then it can be iterated by calling __next__ (avoid using magic method) or next.
 i = iter(y)
 print(i.__next__()) # 0
 print(i.__next__()) # 1

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2b787c0-13f5-4c1e-afd8-9b852e9a2e2d" name="Default" comment="" />
+    <list default="true" id="a2b787c0-13f5-4c1e-afd8-9b852e9a2e2d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/20_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.09_map">
-    <configuration name="01_basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_basics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.20_numpy">
     <configuration name="06_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,20 +133,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.01_basics" />
       <item itemvalue="Python.06_type" />
       <item itemvalue="Python.07_oop" />
       <item itemvalue="Python.10_reduce" />
       <item itemvalue="Python.09_map" />
+      <item itemvalue="Python.20_numpy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20_numpy" />
         <item itemvalue="Python.09_map" />
         <item itemvalue="Python.10_reduce" />
         <item itemvalue="Python.07_oop" />
         <item itemvalue="Python.06_type" />
-        <item itemvalue="Python.01_basics" />
       </list>
     </recent_temporary>
   </component>
@@ -176,5 +183,18 @@
       <updated>1567768029986</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
