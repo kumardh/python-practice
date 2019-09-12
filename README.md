@@ -8,9 +8,9 @@ I am coming from C#, JavaScript, Node background. And recently got a chance to w
 
 So, After spending 2-3 days I was kind of comfortable with Python and ML but, when it came to writing code I was kind of struggling due to lack of hands-on in Python. So, my approach was to learn the language with a fair hands on the basics and key concepts of the language before deep dive into the popular libraries like, numpy, pandas, sklearn, scipy, matplotlib etc..
 
-This post is dedicated to all the newbies of Python and ML. I have created a git repository for the Python code. This repository will guide you through the step-by-step approach to learn this language. So, go though the codes file by file and practice to write and execute the code. In my case I used PyCharm but you are free to use anything you like. File name and it's order is important and recommend you to follow the same.  In most of the cases I have pasted the output next to the expression along with some key notes/concepts wherever possible.
+This post is dedicated to all the newbies of Python and ML. I have created a git repository for the Python code. This repository will guide you through the step-by-step approach to learn this language. So, go though the codes file by file and practice to write, execute and analyze result. File name and it's order is important and recommend you to follow the same. In most of the places I have pasted the output next to the expression along with some key notes/concepts wherever possible.
 
-Few code sample of what I mean above by order and inline comments -
+Below are 2 examples of what I mean above by order (first 2 character of file name) and inline comments -
 
 **01_basics.py**
 
@@ -148,9 +148,7 @@ print(len(dict1)) # 2
 print(len(dict2)) # 3
 ```
 
-> Disclaimer: In your project don't ever try to add comments for what code is doing instead you should be capturing why you are writing a code block.
-
-As we are at learning stage it's perfectly fine to add some note on what code is doing, also this is something a cheat sheet and not the actual deployable Project.
+> Disclaimer: As we are at learning stage it's perfectly fine to add some note on what code is doing. But, in your actual project don't ever try to add comments for what code is doing instead you should be capturing why you are writing a code block.
 
 Code can be downloaded from **[python-practice](https://github.com/kumardh/python-practice)**. I am still working on this repository and will be updating this time to time. So stay tuned if you are interested.
 
